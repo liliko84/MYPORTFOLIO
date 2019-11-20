@@ -1,0 +1,44 @@
+body{
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(../images/riss-cross.png);
+    position:relative;
+}
+
+
+    h1{
+    font-size:30px;
+    background-color:#4aaaa5;
+    padding:20;
+    text-align:left;
+    border:20px;
+   
+    .page-wrapper{
+      widows: 80%;
+      margin: 0auto;
+      display:flex;
+      space:between;
+    }
+
+
+    image{
+        background image:url(onedrive/desktop/lili.jpg);
+        height:150px;
+        width:100px;
+
+     }
+
+    h2{
+      font-size:2px;
+    .img-photo{
+    height:150px;
+    width:40px;
+
+    }
+    p{
+          
+    }
+
+
+
+
